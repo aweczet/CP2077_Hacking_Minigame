@@ -1,0 +1,16 @@
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\bin\Debug\net5.0\hacking_minigame.exe
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\bin\Debug\net5.0\hacking_minigame.deps.json
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\bin\Debug\net5.0\hacking_minigame.runtimeconfig.json
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\bin\Debug\net5.0\hacking_minigame.runtimeconfig.dev.json
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\bin\Debug\net5.0\hacking_minigame.dll
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\bin\Debug\net5.0\ref\hacking_minigame.dll
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\bin\Debug\net5.0\hacking_minigame.pdb
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\obj\Debug\net5.0\hacking_minigame.csprojAssemblyReference.cache
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\obj\Debug\net5.0\hacking_minigame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\obj\Debug\net5.0\hacking_minigame.AssemblyInfoInputs.cache
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\obj\Debug\net5.0\hacking_minigame.AssemblyInfo.cs
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\obj\Debug\net5.0\hacking_minigame.csproj.CoreCompileInputs.cache
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\obj\Debug\net5.0\hacking_minigame.dll
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\obj\Debug\net5.0\ref\hacking_minigame.dll
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\obj\Debug\net5.0\hacking_minigame.pdb
+C:\Users\awecz\Documents\github\CP77_hacking_minigame\hacking_minigame\obj\Debug\net5.0\hacking_minigame.genruntimeconfig.cache
